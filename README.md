@@ -1,3 +1,9 @@
+## XCode 12 - Beta
+
+- Add Carthago Support
+
+
+
 ## Updated for Swift 4.2
 Requires Xcode 10 and Swift 4.2.
 
