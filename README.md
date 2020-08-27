@@ -1,8 +1,6 @@
 ## XCode 12 - Beta
 
-- Add Carthago Support
-
-
+- どうしようもなくなったのでゼロからプロジェクトを作って最小限に再構築しました。
 
 ## Updated for Swift 4.2
 Requires Xcode 10 and Swift 4.2.
